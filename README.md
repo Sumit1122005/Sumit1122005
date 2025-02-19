@@ -23,7 +23,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,kotlin,github,git,figma,&perline=5)](https://skillicons.dev)
 
-![Sumit1122005's GitHub stats](https://github-readme-stats.vercel.app/api?username=prem294&show_icons=true&theme=dark)
+![Sumit1122005's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit1122005&show_icons=true&theme=dark)
 
 
 <br>
