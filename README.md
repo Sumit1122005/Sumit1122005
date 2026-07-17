@@ -198,8 +198,6 @@ Building AI Applications • Automating Workflows • Solving Real World Problem
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
 
-![Sumit1122005's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit1122005&show_icons=true&theme=dark)
-
 
 <br>
 <!---
