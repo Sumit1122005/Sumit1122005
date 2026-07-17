@@ -156,7 +156,7 @@ Next.js • Modern UI • Responsive Website
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Sumit1122005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://raw.githubusercontent.com/Sumit1122005/Sumit1122005/main/trophy.svg"/>
 </p>
 
 <br/>
