@@ -124,7 +124,7 @@ Building AI Applications • Automating Workflows • Solving Real World Problem
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumit1122005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit1122005&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Sumit1122005&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -134,7 +134,7 @@ Building AI Applications • Automating Workflows • Solving Real World Problem
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit1122005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit1122005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -144,7 +144,7 @@ Building AI Applications • Automating Workflows • Solving Real World Problem
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sumit1122005&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sumit1122005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
@@ -154,7 +154,7 @@ Building AI Applications • Automating Workflows • Solving Real World Problem
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit1122005&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit1122005&theme=github-compact"/>
 
 </p>
 
